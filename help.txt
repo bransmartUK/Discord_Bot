@@ -1,0 +1,20 @@
+```Help Page for Epic Bot! (Everything is changed to lowercase, so caps does NOT matter)
+
+- Random Naruto character? Say: "Naruto character am I"
+
+- Wonder what Valorant character you should play? Say: "What character should I play"
+
+- Wonder what Killer you should play in DBD? Say: "What Killer should I play?"
+
+- Wonder what Survivor you should play in DBD? Say: "What survivor should I play?"
+
+- Wonder what 4 perks you should run for your killer? Say: "What killer perks should I pick?"
+
+- Wonder what 4 perks you should run for you survivor? Say: "What survivor perks should I pick?"
+
+- Want a random survivor perk? Say: "give me a random survivor perk"
+
+- Want a random killer perk? Say: "give me a random killer perk"
+
+Any cool recommendations? DM me at Bran#1600 
+Enjoy!```
