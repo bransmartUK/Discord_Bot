@@ -1,6 +1,6 @@
 ```Help Page for Epic Bot! (Everything is changed to lowercase, so caps does NOT matter)
 
-- Random Naruto character? Say: "Naruto character am I"
+- Random Naruto character? Say: "What Naruto character am I"
 
 - Wonder what Valorant character you should play? Say: "What character should I play"
 
