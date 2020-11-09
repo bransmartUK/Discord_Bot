@@ -107,7 +107,7 @@ async def on_message(message):
         word = random_line('killerperksNoNumb.txt')
         response = word
         await message.channel.send(response)
-    elif '!help' in message.content.lower():
+    elif 'help me bot' in message.content.lower():
         response = helpPage
         await message.channel.send(response)
     elif message.content == 'raise-exception':

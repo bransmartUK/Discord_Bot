@@ -12,9 +12,9 @@
 
 - Wonder what 4 perks you should run for you survivor? Say: "What survivor perks should I pick?"
 
-- Want a random survivor perk? Say: "give me a random survivor perk"
+- Want a random survivor perk? Say: "Give me a random survivor perk"
 
-- Want a random killer perk? Say: "give me a random killer perk"
+- Want a random killer perk? Say: "Give me a random killer perk"
 
 Any cool recommendations? DM me at Bran#1600 
 Enjoy!```
