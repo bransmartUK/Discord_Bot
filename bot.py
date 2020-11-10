@@ -22,6 +22,7 @@ def dictinize(filename_text):
 survPerks = dictinize("survivorperks.txt")
 killerPerks = dictinize("killerperks.txt")
 helpPage = open('help.txt', 'r').read()
+patchPage = open('patchnotes.txt', 'r').read()
 client = discord.Client()
 
 
@@ -75,6 +76,14 @@ async def on_message(message):
         word = random_line('characters.txt')
         response = word
         await message.channel.send(response)
+    elif 'what ua student am i' in message.content.lower():
+        word = random_line('UAstudents.txt')
+        response = word
+        await message.channel.send(response)
+    elif 'what harry potter character am i' in message.content.lower():
+        word = random_line('harryCharacters.txt')
+        response = word
+        await message.channel.send(response)
     elif 'what character should brandon play' in message.content.lower():
         word = random_line('valorant(b).txt')
         response = word
@@ -107,8 +116,11 @@ async def on_message(message):
         word = random_line('killerperksNoNumb.txt')
         response = word
         await message.channel.send(response)
-    elif 'help me bot' in message.content.lower():
+    elif '?help' in message.content.lower():
         response = helpPage
+        await message.channel.send(response)
+    elif '?patch' in message.content.lower():
+        response = patchPage
         await message.channel.send(response)
     elif message.content == 'raise-exception':
         raise discord.DiscordException

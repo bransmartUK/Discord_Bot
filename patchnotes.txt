@@ -1,0 +1,10 @@
+```New update, new bot!
+
+- "Help me bot" changed to "?help"
+
+- Added a new patch page to find out whats been added! "?patch"
+
+- Added UA students and Harry Potter characters! Check "?help" for more!
+
+Thank You and Enjoy!
+Enjoy!```
