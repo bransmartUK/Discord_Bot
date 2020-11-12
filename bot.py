@@ -84,6 +84,14 @@ async def on_message(message):
         word = random_line('harryCharacters.txt')
         response = word
         await message.channel.send(response)
+    elif 'what street fighter character am i' in message.content.lower():
+        word = random_line('SFCharacters.txt')
+        response = word
+        await message.channel.send(response)
+    elif 'what goku am i' in message.content.lower():
+        word = random_line('gokuVersions.txt')
+        response = word
+        await message.channel.send(response)
     elif 'what character should brandon play' in message.content.lower():
         word = random_line('valorant(b).txt')
         response = word

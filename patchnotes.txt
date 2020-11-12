@@ -1,10 +1,8 @@
 ```New update, new bot!
 
-- "Help me bot" changed to "?help"
+- Added all Street Fighter characters! Check $help for all commands!
 
-- Added a new patch page to find out whats been added! "?patch"
-
-- Added UA students and Harry Potter characters! Check "?help" for more!
+- Added all Goku forms!
 
 Thank You and Enjoy!
 Enjoy!```

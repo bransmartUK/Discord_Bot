@@ -6,6 +6,10 @@
 
 - Random Harry Potter Character? Say: "What Harry Potter character am I"
 
+- Random Street Fighter character? Say: "What Street Fighter character am I"
+
+- Random Goku version? Say: "What Goku am I"
+
 - Wonder what Valorant character you should play? Say: "What character should I play"
 
 - Wonder what Killer you should play in DBD? Say: "What Killer should I play?"
